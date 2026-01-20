@@ -2,6 +2,7 @@
 
 ## Krátký popis
 Webová aplikace určená pro skautské oddíly, která slouží ke správě členů, vedoucích a skupin, plánování akcí, evidenci účasti, správě plateb a sdílení fotografií z akcí.
+ Odkaz na [Figmu]([url](https://www.figma.com/site/OJJg0udF0XKSsDiA8RlFHv/Untitled?node-id=0-1&t=9cN08QOMGgUhZe4n-1))
 
 ---
 
@@ -94,3 +95,4 @@ Cílem projektu je vytvořit jednotný informační systém pro vodní skautský
 
 **Autor:** *Lukáš Vlček*  
 **Datum:** *listopad 2025*
+
